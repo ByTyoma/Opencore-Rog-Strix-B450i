@@ -149,6 +149,24 @@
 						<key>Comment</key>
 						<string>Rear red left 2.0</string>
 					</dict>
+					<key>HS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BwAAAA==</data>
+						<key>Comment</key>
+						<string>Case Front Top 2.0</string>
+					</dict>
+					<key>HS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>CAAAAA==</data>
+						<key>Comment</key>
+						<string>Case Front Bottom 2.0</string>
+					</dict>
 					<key>SS01</key>
 					<dict>
 						<key>UsbConnector</key>
@@ -166,6 +184,24 @@
 						<data>AgAAAA==</data>
 						<key>Comment</key>
 						<string>Rear red left 3.0</string>
+					</dict>
+					<key>SS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>AwAAAA==</data>
+						<key>Comment</key>
+						<string>Case Front Top 3.0</string>
+					</dict>
+					<key>SS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
+						<data>BAAAAA==</data>
+						<key>Comment</key>
+						<string>Case Front Bottom 3.0</string>
 					</dict>
 					<key>INT1</key>
 					<dict>
